@@ -1,5 +1,5 @@
 ---
-title: Document Center
+title: 隐私政策
 ---
 
 # 老虎运动隐私政策
