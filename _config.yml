@@ -4,4 +4,6 @@ description: 老虎教练是为健身教练打造的助教App，可在iPhone、i
 
 show_downloads: true
 github:
+  repository_url: https://a.app.qq.com/o/simple.jsp?pkgname=hk.socap.tigercoach
   zip_url: https://a.app.qq.com/o/simple.jsp?pkgname=hk.socap.tigercoach
+  tar_url: https://a.app.qq.com/o/simple.jsp?pkgname=hk.socap.tigercoach
