@@ -182,3 +182,5 @@ title: Document Center
 ## 联系方式
 
 如对本政策或我们使用您信息的情况有何疑问、建议或疑虑，请通过 privacy@tigerf.it 联系我们。
+
+[蜀ICP备19003905号-1](http://www.miibeian.gov.cn)
